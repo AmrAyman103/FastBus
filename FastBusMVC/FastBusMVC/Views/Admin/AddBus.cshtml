@@ -1,0 +1,18 @@
+﻿@{
+
+    Layout = null;
+}
+
+
+<form asp-controller="Admin" asp-action="AddBus" method="post">
+<input type="number" name="tripID" required placeholder="tripID" />
+<br>
+    <input type="number" name="busID" required placeholder="busid" />
+    <br>
+<br>
+<input type="number" name="seatNumber" required placeholder="seatNumber" />
+<br>
+<input type="number" name="code" required  placeholder="code"/>
+<br>
+<input type="submit" value="Add New Bus" />
+</form>

@@ -1,0 +1,85 @@
+﻿@{
+    Layout = null;
+
+
+}
+
+@* ViewData["departure"] =  trip.DeparureCity;
+                    ViewData["destination"] = trip.ArrivalCity;
+                    ViewData["DepartureDate"] = trip.DeparureDataTime;
+                    ViewData["ArrivalDate"] = trip.ArrivalDateTime;
+                    ViewData["ticketCount"] = ticketCount; *@
+
+
+<style>
+    .container {
+        height: 100vh;
+    }
+
+    .card {
+        width: 100%;
+        max-width: 600px;
+        margin: 20px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .upper img {
+        width: 100%;
+        height: auto;
+    }
+
+    .profile img {
+        margin-top: -40px;
+        border: 5px solid white;
+    }
+
+    .follow {
+        margin-top: 10px;
+    }
+
+    table {
+        margin-top: 20px;
+    }
+
+    .table th, .table td {
+        text-align: center;
+    }
+</style>
+
+
+
+        <div class="mt-5 text-center">
+            <h4 class="mb-0">@ViewData["firstname"] @ViewData["lastname"]</h4>
+            <span class="text-muted d-block mb-2">@ViewData["username"]</span>
+            <button class="btn btn-primary btn-sm follow">Booking Trip</button>
+
+            <table class="table table-dark mt-3">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Departure City</th>
+                        <th scope="col">Arrival City</th>
+                        <th scope="col">Departure Date
+                            Time
+                        </th>
+                        <th scope="col">Number Of Tickets</th>
+                        <th scope="col">Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var trip in Model.Trips)
+                    {
+                        <tr>
+
+                            <td>@trip.DeparureCity</td>
+                            <td>@trip.ArrivalCity</td>
+                            <td>@trip.DeparureDataTime</td>
+
+                            @*   <td>@trip.NumberTickets</td> *@
+                            <td>@trip.Price</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+   

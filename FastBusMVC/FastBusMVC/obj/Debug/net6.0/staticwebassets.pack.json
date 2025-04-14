@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FastBusMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FastBusMVC.mfe50wqtc1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\AvailableTrips\\images\\profile\\cairo.jpg",
+      "PackagePath": "staticwebassets\\AvailableTrips\\images\\profile\\cairo.jpg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\AvailableTrips\\images\\showImg\\appDev.jpg",
+      "PackagePath": "staticwebassets\\AvailableTrips\\images\\showImg\\appDev.jpg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\AvailableTrips\\images\\showImg\\blogger.jpg",
+      "PackagePath": "staticwebassets\\AvailableTrips\\images\\showImg\\blogger.jpg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\AvailableTrips\\images\\showImg\\dataAna.jpg",
+      "PackagePath": "staticwebassets\\AvailableTrips\\images\\showImg\\dataAna.jpg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\AvailableTrips\\images\\showImg\\fullDev.jpg",
+      "PackagePath": "staticwebassets\\AvailableTrips\\images\\showImg\\fullDev.jpg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\AvailableTrips\\images\\showImg\\photographer.jpg",
+      "PackagePath": "staticwebassets\\AvailableTrips\\images\\showImg\\photographer.jpg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\Avstyle.css",
+      "PackagePath": "staticwebassets\\css\\Avstyle.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\Avswiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\Avswiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\LoginStyle.css",
+      "PackagePath": "staticwebassets\\css\\LoginStyle.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\Profile.css",
+      "PackagePath": "staticwebassets\\css\\Profile.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\Registr.css",
+      "PackagePath": "staticwebassets\\css\\Registr.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\trip.css",
+      "PackagePath": "staticwebassets\\css\\trip.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\home\\b.jpg",
+      "PackagePath": "staticwebassets\\home\\b.jpg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\home\\bg.jpg",
+      "PackagePath": "staticwebassets\\home\\bg.jpg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\home\\index.html",
+      "PackagePath": "staticwebassets\\home\\index.html"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\home\\script.js",
+      "PackagePath": "staticwebassets\\home\\script.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\home\\style.css",
+      "PackagePath": "staticwebassets\\home\\style.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\EndUser\\fvvv.png",
+      "PackagePath": "staticwebassets\\images\\EndUser\\fvvv.png"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\EndUser\\omar.jpg",
+      "PackagePath": "staticwebassets\\images\\EndUser\\omar.jpg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\images.jpeg",
+      "PackagePath": "staticwebassets\\images\\images.jpeg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\trip\\assiut.jpg",
+      "PackagePath": "staticwebassets\\images\\trip\\assiut.jpg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\trip\\cairo.jpg",
+      "PackagePath": "staticwebassets\\images\\trip\\cairo.jpg"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\js\\AVscript.js",
+      "PackagePath": "staticwebassets\\js\\AVscript.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\js\\Avswiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\Avswiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\js\\LoginScript.js",
+      "PackagePath": "staticwebassets\\js\\LoginScript.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FastBusMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FastBusMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FastBusMVC.props",
+      "PackagePath": "build\\FastBusMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FastBusMVC.props",
+      "PackagePath": "buildMultiTargeting\\FastBusMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FastBusMVC.props",
+      "PackagePath": "buildTransitive\\FastBusMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

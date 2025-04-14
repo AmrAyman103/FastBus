@@ -1,0 +1,100 @@
+﻿ <!-- Signup From -->
+ @model FastBusMVC.ViewModel.RegisterUserViewModel
+<link href="~/home/style.css" rel="stylesheet" />
+<div class="form signup_form">
+    <form asp-controller="Account" asp-action="register" method="post" enctype="multipart/form-data">
+        @*         <div style="color:red;" asp-validation-summary="All" class="text-danger"></div>
+        *@        <h2>Signup</h2>
+
+
+        <div class="input_box">
+            <i class="uil uil-user" style="float: left; margin-right: 5px;"></i>
+            <input asp-for="FirstName" placeholder="Enter First name" required />
+            <span style="color:red;" asp-validation-for="FirstName" class="text-danger"></span>
+        
+        </div>
+
+
+        <div class="input_box">
+            <i class="uil uil-user" style="float: left; margin-right: 5px;"></i>
+            <input asp-for="LastName" placeholder="Enter Last name" required />
+            <span style="color:red;" asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+
+
+        <div class="input_box">
+            <i class="uil uil-map-marker-alt" style="float: left; margin-right: 5px;"></i>
+            <input asp-for="Address" placeholder="Enter your address" required />
+            <span style="color:red;" asp-validation-for="Address" class="text-danger"></span>
+        </div>
+
+        @*  <div class="input_box">
+        <i class="uil uil-user" style="float: left; margin-right: 5px;"></i>
+        <input asp-for="Gender" placeholder="Enter your Gender" required />
+        <span style ="color:red;" asp-validation-for="Gender" class="text-danger"></span>
+        </div> *@
+
+
+        <div class="input_box">
+            <i class="uil uil-user" style="float: left; margin-right: 1px;"></i>
+            <label for="male" class="gender-input">Male</label>
+            <input type="radio" id="male" name="Gender" value="Male" required class="gender-input" />
+
+            <label for="female" class="gender-input">Female</label>
+            <input type="radio" id="female" name="Gender" value="Female" required class="gender-input" />
+
+            <span asp-validation-for="Gender" class="text-danger"></span>
+        </div>
+
+
+        <div class="input_box">
+            <i class="uil uil-user" style="float: left; margin-right: 5px;"></i>
+            <input asp-for="UserName" placeholder="Enter username" required />
+            <span style="color:red;" asp-validation-for="UserName" class="text-danger"></span>
+        </div>
+
+
+
+
+        <div class="input_box">
+            <input asp-for="Email" placeholder="Enter Email" required />
+            <span style="color:red;" asp-validation-for="Email" class="text-danger"></span>
+
+            <i class="uil uil-envelope-alt email"></i>
+        </div>
+
+        <div class="input_box">
+            <input asp-for="Password" placeholder="Enter Password" required />
+            <span style="color:red;" asp-validation-for="Password" class="text-danger"></span>
+
+            <i class="uil uil-eye-slash pw_hide"></i>
+        </div>
+
+        <div class="input_box">
+            <i class="uil uil-phone" style="float: left; margin-right: 5px;"></i>
+            <input asp-for="PhoneNumber" placeholder=" Enter Phone number" required />
+            <span style="color:red;" asp-validation-for="PhoneNumber" class="text-danger"></span>
+
+        </div>
+
+        <div class="input_box">
+            <input asp-for="DateOfBirth" placeholder=" Enter Birth Date" required />
+            <span style="color:red;" asp-validation-for="DateOfBirth" class="text-danger"></span>
+        </div>
+
+
+        <div class="input_box">
+            <i class="uil uil-image" style="float: left; margin-right: 5px;"></i>
+            <input asp-for="image" placeholder="Choose image" accept="image/jpg,image/jpeg,image/png" />
+            <span style="color:red;" asp-validation-for="image" class="text-danger"></span>
+        </div>
+
+
+
+
+
+        <button type="submit" class="button">Signup Now</button>
+
+        <div class="login_signup">Already have an account? <a href="#" id="login">Login</a></div>
+    </form>
+</div>

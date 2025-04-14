@@ -1,0 +1,58 @@
+﻿
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(97, 97, 97, 0.1); /* خلفية شفافة */
+}
+
+.container {
+    width: 40%;
+    height: 80%;
+    margin: 10px;
+    padding: 40px;
+    background-color: rgba(246, 220, 28, 0.9); /* لون أصفر فاتح شفاف */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 2px;
+    margin-left: 2%;
+}
+
+h1 {
+    text-align: center;
+    color: #333; /* لون غامق للنص */
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333; /* لون غامق للنص */
+}
+
+select, input[type="datetime-local"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 230, 0.9); /* لون خلفية شفاف */
+}
+
+button {
+    background-color: rgba(245, 181, 92, 0.9); /* لون أصفر فاتح شفاف */
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+    button:hover {
+        background-color: rgba(68, 74, 61, 0.9); /* لون أصفر أغمق عند التمرير */
+    }

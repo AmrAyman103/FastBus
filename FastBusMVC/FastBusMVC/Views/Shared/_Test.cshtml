@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+
+<!-- Coding By CodingNepal - codingnepalweb.com -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fast Bus</title>
+    <link href="~/css/style.css" rel="stylesheet" />
+    <link href="~/css/trip.css" rel="stylesheet" />
+    <!-- Unicons -->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
+
+    <style>
+
+        /* styles.css */
+        .profile-container {
+            position: relative;
+            display:block;
+            margin:15px 20px;
+            justify-content: flex-end; /* لنقل الصورة إلى أقصى اليمين */
+            padding-top: 5%; /* تعديل المسافة العمودية */
+            padding-right: 10%; /* تعديل المسافة الأفقية */
+           
+        }
+
+        .profile-image {
+            width: 100px; /* يمكنك ضبط الحجم حسب الحاجة */
+            height: 100px; /* يجب أن يكون مساويًا للعرض لضمان أن تكون الصورة دائرية */
+            border-radius: 50%; /* هذا يجعل الصورة دائرية */
+            object-fit: cover; /* يضمن أن الصورة تغطي كامل الحاوية بدون تشويه */
+            border: 2px solid #ccc; /* يمكنك إضافة حدود لتجميل الصورة */
+        }
+
+
+
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav">
+            <a href="#" class="nav_logo">Booking Trip</a>
+
+            <ul class="nav_items">
+                <li class="nav_item">
+                    <a href="#" class="nav_link">Home</a>
+
+                    <a href="@Url.Action("TravelInterfaces", "ViewTrips")" class="nav_items">Travel Interfaces</a>
+                    <a href="@Url.Action("PrivateTrip", "Booking")" class="nav_items">Private Trip</a>
+                    <a href="#" class="nav_link">Contact</a>
+                </li>
+                <li>
+                <a asp-controller="Account" asp-action="Profile">
+                    <div class="profile-container">
+                        <br><br>
+                            <img src="~/images/EndUser/@(ViewData["image"]).jpg" class="profile-image">
+
+                        <br>
+                        @ViewBag.username
+                    </div>
+                </a>
+                </li>
+               
+            </ul>
+
+
+                        
+            
+
+        </nav>
+    </header>
+
+    <!-- Home -->
+
+    <section class="home">
+        <br>
+        @RenderBody();
+
+
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <partial name="_ValidationScriptsPartial"></partial>
+    </section>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+------------------------------------------------
+

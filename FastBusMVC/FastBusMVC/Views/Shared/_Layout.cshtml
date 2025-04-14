@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<!-- Coding By CodingNepal - codingnepalweb.com -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fast Bus</title>
+    <link href="~/css/style.css" rel="stylesheet" />
+    <link href="~/css/trip.css" rel="stylesheet" />
+    <!-- Unicons -->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav">
+            <a href="#" class="nav_logo">Booking Trip</a>
+
+            <ul class="nav_items">
+                <li class="nav_item">
+                    <a href="#" class="nav_link">Home</a>
+                    
+                    <a href="@Url.Action("login", "Account")" class="nav_items">TravelInterfaces</a>
+                    <a href="@Url.Action("login", "Account")" class="nav_link">Private trips</a>
+                    <a href="#" class="nav_link">Contact</a>
+                </li>
+            </ul>
+
+            <a asp-controller="Account" asp-action="login">
+                <button class="button" id="form-open">Login</button>
+            </a>
+
+        </nav>
+    </header>
+
+    <!-- Home -->
+
+    <section class="home">
+       <br>
+        @RenderBody();
+
+
+   
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <partial name="_ValidationScriptsPartial"></partial>
+    </section>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+------------------------------------------------
+

@@ -1,0 +1,42 @@
+﻿ @model FastBusMVC.ViewModel.LoginUserViewModel
+
+<link href="~/css/style.css" rel="stylesheet" />
+
+<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
+<div class="form login_form">
+    <!-- Login From -->
+    <div class="form login_form">
+          <form asp-controller="Account" asp-action="login" method="post">
+            <h2>Login</h2>
+
+            <div class="input_box">
+                <input asp-for="UserName" placeholder="Enter username" required />
+                <span style="color:red;" asp-validation-for="UserName" class="text-danger"></span>
+                <i class="uil uil-envelope-alt email"></i>
+            </div>
+
+
+
+            <div class="input_box">
+                <input asp-for="Password" placeholder="Enter Password" required />
+                <span style="color:red;" asp-validation-for="Password" class="text-danger"></span>
+                <i class="uil uil-lock password"></i>
+                <i class="uil uil-eye-slash pw_hide"></i>
+            </div>
+
+            <div class="option_field">
+                <span class="checkbox">
+                    <input type="checkbox" asp-for="RememberMe" />
+                    <label asp-for="RememberMe"></label>
+                </span>
+                <a href="#" class="forgot_pw">Forgot password?</a>
+            </div>
+
+            <button class="button">Login Now</button>
+
+            <div class="login_signup">Don't have an account? <a href="/Account/register" id="signup">Signup</a></div>
+
+
+
+        </form>
+    </div>

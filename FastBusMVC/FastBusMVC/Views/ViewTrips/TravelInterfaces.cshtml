@@ -1,0 +1,99 @@
+﻿<h1>Travel Interfaces</h1>
+<br>
+
+
+@foreach (var trip in Model.Trips)
+{
+    <div class="container">
+        <div class="con">
+            <div>
+                <a href="@Url.Action("BookingTrip", "Booking")">
+                    <img src="~/images/trip/@(trip.TripImage).jpg" width="300" height="350" alt="Trip Image">
+                    <div class="cc">
+                        <pre>
+        Departure City: @trip.DeparureCity
+        Arrival City: @trip.ArrivalCity
+              Departure Time: @trip.DeparureDataTime
+        Price Time: @trip.Price
+                                </pre>
+                        <a href="@Url.Action("BookingTrip", "Booking")">  <button>Book Now</button></a>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+}
+
+
+@{
+
+    Layout = null;
+
+    var t = ViewData["trip"];
+}
+@model FastBusMVC.ViewModel.AvailableTripsViewModel
+
+<style>
+
+    .container {
+        text-align: left;
+        margin:20px 15px;
+        width: 110%;
+       /*  height: 100px; */
+       /*  margin-bottom:50px; */
+        display: flex;
+        justify-content: end;
+        text-align: right;
+    }
+
+        .container img {
+           /*  padding: 20px; */
+        }
+
+    .Bu Button {
+        width: 165px;
+        height: 30px;
+        background-color: purple;
+        color: white;
+    }
+
+
+    .con {
+        display: flex;
+    }
+
+        .con img {
+          /*   margin: 20px;
+             */
+        }
+
+        .con a {
+            text-decoration: none;
+            color: black;
+          /*   margin-left: 40px; */
+        }
+
+    .cc {
+        text-align: center;
+    }
+
+        .cc Button {
+            background: purple;
+            color: white
+        }
+
+
+
+</style>
+
+<link href="~/css/avstyle.css" rel="stylesheet" />
+<link href="~/css/avswiper-bundle.min.css" rel="stylesheet" />
+
+
+
+
+
+
+
+    <script src="~/js/avscript.js"></script>
+    <script src="~/js/avswiper-bundle.min.js"></script>

@@ -1,0 +1,69 @@
+﻿@{
+    Layout = null;
+
+    // ViewData["ticketCount"] = ticketCount;
+    // ViewData["totalPrice"] = totalPrice;
+   
+}
+@model FastBusMVC.ViewModel.AvailableTripsViewModel
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+<link href="~/css/avstyle.css" rel="stylesheet" />
+<link href="~/css/avswiper-bundle.min.css" rel="stylesheet" />
+<link href="~/css/trip.css" rel="stylesheet" />
+
+
+
+<div class="container">
+    <h1 class="my-4">Trip Details</h1>
+    <form asp-controller="Booking" asp-action="BookingConfirmation" method="post">
+        <div class="form-group">
+            <label for="DeparureCitys">Deparure City</label>
+            <input type="text" readonly name="DeparureCitys" id="DeparureCitys" class="form-control" value="@ViewData["departure"]">
+        </div>
+
+        <div class="form-group">
+            <label for="Destination">Destination</label>
+            <input type="text" readonly name="Destination" id="Destination" class="form-control" value="@ViewData["destination"]">
+        </div>
+
+        <div class="form-group">
+            <label for="DepartureDate">Departure Date</label>
+            <input type="text" readonly name="DepartureDate" id="DepartureDate" class="form-control" value="@((DateTime)ViewData["DepartureDate"])">
+        </div>
+
+        <div class="form-group">
+            <label for="ArrivalDate">Arrival Date</label>
+            <input type="text" readonly name="ArrivalDate" id="ArrivalDate" class="form-control" value="@((DateTime)ViewData["ArrivalDate"])">
+        </div>
+
+        <div class="form-group">
+            <label for="ticketCount">Number of Tickets</label>
+            <div class="input-group">
+
+                <input type="number" readonly id="ticketCount" asp-for="ticketCountMV" class="form-control text-center" value="@ViewData["ticketCount"]">
+
+             
+            </div>
+        </div>
+            <div class="form-group">
+                <label for="totalPrice">Total Price</label>
+            <input type="text" readonly id="totalPriceMV" asp-for="totalPriceMV" class="form-control text-center" value="@ViewData["TotalPrice"]">
+            </div>
+
+       
+       
+
+        <button type="submit" class="btn btn-primary btn-block">Book Now</button>
+    </form>
+
+    <a href="@Url.Action("BookingTrip", "Booking")" class="btn btn-secondary btn-block mt-3">cancellation of reservation</a>
+</div>
+
+
+<!-- تضمين ملفات JavaScript الخاصة بـ Bootstrap -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="~/js/avscript.js"></script>
+<script src="~/js/avswiper-bundle.min.js"></script>

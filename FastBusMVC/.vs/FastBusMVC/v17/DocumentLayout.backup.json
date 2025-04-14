@@ -1,0 +1,929 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\FastBusMVC\\FastBusMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\shared\\_test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\shared\\_test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\controllers\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\controllers\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\models\\tripbu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\models\\tripbu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\models\\final_designcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\models\\final_designcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\migrations\\20240521223351_addtripbumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\migrations\\20240521223351_addtripbumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\models\\bu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\models\\bu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\booking\\privatetrip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\booking\\privatetrip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\booking\\bookingtrip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\booking\\bookingtrip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\css\\trip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\css\\trip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\viewtrips\\travelinterfaces.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\viewtrips\\travelinterfaces.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\controllers\\viewtripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\controllers\\viewtripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\admin\\addbus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\admin\\addbus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\admin\\administration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\admin\\administration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\css\\registr.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\css\\registr.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\css\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\css\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\booking\\bookingconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\booking\\bookingconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\viewmodel\\availabletripsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\viewmodel\\availabletripsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\booking\\availabletrips.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\booking\\availabletrips.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\viewmodel\\viewmodeltrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\viewmodel\\viewmodeltrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\validation_for_image\\allowedextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\validation_for_image\\allowedextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\images\\enduser\\omar.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\images\\enduser\\omar.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\images\\enduser\\fvvv.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\images\\enduser\\fvvv.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\shared\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\shared\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\viewmodel\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\viewmodel\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\shared\\_availabletrips.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\shared\\_availabletrips.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\booking\\ticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\booking\\ticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\css\\avstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\css\\avstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\viewmodel\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\viewmodel\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\images\\images.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\images\\images.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\images\\bg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\images\\bg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\shared\\_register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\shared\\_register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\js\\loginscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\js\\loginscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\home\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\home\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\js\\avswiper-bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\js\\avswiper-bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\js\\avscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\js\\avscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\wwwroot\\home\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\wwwroot\\home\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\booking\\unavailable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\booking\\unavailable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\helper\\cities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\helper\\cities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|d:\\project\\fastbusmvc\\fastbusmvc\\fastbusmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3802DA2E-15DC-4A05-85D4-BB8A00111E9F}|FastBusMVC\\FastBusMVC.csproj|solutionrelative:fastbusmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddBus.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Admin\\AddBus.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Admin\\AddBus.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Admin\\AddBus.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Admin\\AddBus.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Administration.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Admin\\Administration.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Admin\\Administration.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Admin\\Administration.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Admin\\Administration.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "FastBusMVC\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAArwCUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Profile.css",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\Profile.css",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\css\\Profile.css",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\Profile.css",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\css\\Profile.css",
+              "ViewState": "AQIAACMAAAAAAAAAAAAqwDcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T00:53:20.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAqwFQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "omar.jpg",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\EndUser\\omar.jpg",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\images\\EndUser\\omar.jpg",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\EndUser\\omar.jpg",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\images\\EndUser\\omar.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-22T00:53:20.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Test.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\_Test.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Shared\\_Test.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\_Test.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Shared\\_Test.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FastBusMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bu.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Models\\Bu.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Models\\Bu.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Models\\Bu.cs",
+              "RelativeToolTip": "FastBusMVC\\Models\\Bu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginStyle.css",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\LoginStyle.css",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\css\\LoginStyle.css",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\LoginStyle.css",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\css\\LoginStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T00:53:20.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240521223351_AddTripBuModel.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Migrations\\20240521223351_AddTripBuModel.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Migrations\\20240521223351_AddTripBuModel.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Migrations\\20240521223351_AddTripBuModel.cs",
+              "RelativeToolTip": "FastBusMVC\\Migrations\\20240521223351_AddTripBuModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FastBusMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FastBusMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-22T00:53:19.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TripBu.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Models\\TripBu.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Models\\TripBu.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Models\\TripBu.cs",
+              "RelativeToolTip": "FastBusMVC\\Models\\TripBu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Ticket.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Booking\\Ticket.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Booking\\Ticket.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Booking\\Ticket.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Booking\\Ticket.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookingConfirmation.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Booking\\BookingConfirmation.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Booking\\BookingConfirmation.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Booking\\BookingConfirmation.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Booking\\BookingConfirmation.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Avstyle.css",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\Avstyle.css",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\css\\Avstyle.css",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\Avstyle.css",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\css\\Avstyle.css",
+              "ViewState": "AQIAACoAAAAAAAAAAAAqwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T00:53:20.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "images.jpeg",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\images.jpeg",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\images\\images.jpeg",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\images.jpeg",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\images\\images.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-22T00:53:20.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "bg.jpg",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\bg.jpg",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\images\\bg.jpg",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\bg.jpg",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\images\\bg.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-22T00:53:20.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginScript.js",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\js\\LoginScript.js",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\js\\LoginScript.js",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\js\\LoginScript.js",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\js\\LoginScript.js",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwCoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:53:20.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Registr.css",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\Registr.css",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\css\\Registr.css",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\Registr.css",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\css\\Registr.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T00:53:20.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:53:20.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Avswiper-bundle.min.js",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\js\\Avswiper-bundle.min.js",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\js\\Avswiper-bundle.min.js",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\js\\Avswiper-bundle.min.js",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\js\\Avswiper-bundle.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:53:20.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AVscript.js",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\js\\AVscript.js",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\js\\AVscript.js",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\js\\AVscript.js",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\js\\AVscript.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:53:20.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\home\\script.js",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\home\\script.js",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\home\\script.js",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\home\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:53:20.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "fvvv.png",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\EndUser\\fvvv.png",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\images\\EndUser\\fvvv.png",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\images\\EndUser\\fvvv.png",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\images\\EndUser\\fvvv.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-22T00:53:20.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Account\\register.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Account\\register.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Account\\register.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Account\\register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TravelInterfaces.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\ViewTrips\\TravelInterfaces.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\ViewTrips\\TravelInterfaces.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\ViewTrips\\TravelInterfaces.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\ViewTrips\\TravelInterfaces.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewTripsController.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Controllers\\ViewTripsController.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Controllers\\ViewTripsController.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Controllers\\ViewTripsController.cs",
+              "RelativeToolTip": "FastBusMVC\\Controllers\\ViewTripsController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "trip.css",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\trip.css",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\css\\trip.css",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\trip.css",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\css\\trip.css",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T00:53:20.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Models\\Booking.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Models\\Booking.cs",
+              "RelativeToolTip": "FastBusMVC\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Account\\login.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Account\\login.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Account\\login.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Account\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAKAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T00:53:20.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Models\\Trip.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Models\\Trip.cs",
+              "RelativeToolTip": "FastBusMVC\\Models\\Trip.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Cities.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Helper\\Cities.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Helper\\Cities.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Helper\\Cities.cs",
+              "RelativeToolTip": "FastBusMVC\\Helper\\Cities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\home\\style.css",
+              "RelativeDocumentMoniker": "FastBusMVC\\wwwroot\\home\\style.css",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\wwwroot\\home\\style.css",
+              "RelativeToolTip": "FastBusMVC\\wwwroot\\home\\style.css",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T00:53:20.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_register.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\_register.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Shared\\_register.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\_register.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Shared\\_register.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Booking.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\Booking.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Shared\\Booking.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\Booking.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Shared\\Booking.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_login.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\_login.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Shared\\_login.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\_login.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Shared\\_login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_AvailableTrips.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\_AvailableTrips.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Shared\\_AvailableTrips.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\_AvailableTrips.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Shared\\_AvailableTrips.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Unavailable.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Booking\\Unavailable.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Booking\\Unavailable.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Booking\\Unavailable.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Booking\\Unavailable.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrivateTrip.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Booking\\PrivateTrip.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Booking\\PrivateTrip.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Booking\\PrivateTrip.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Booking\\PrivateTrip.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AvailableTrips.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Booking\\AvailableTrips.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Booking\\AvailableTrips.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Booking\\AvailableTrips.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Booking\\AvailableTrips.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingTrip.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Booking\\BookingTrip.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Booking\\BookingTrip.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Booking\\BookingTrip.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Booking\\BookingTrip.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAqwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Controllers\\Booking.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Controllers\\Booking.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Controllers\\Booking.cs",
+              "RelativeToolTip": "FastBusMVC\\Controllers\\Booking.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAFUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Controllers\\Account.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Controllers\\Account.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Controllers\\Account.cs",
+              "RelativeToolTip": "FastBusMVC\\Controllers\\Account.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAADwv6sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FastBusMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FastBusMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:53:20.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AllowedExtensionAttribute.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Validation_For_Image\\AllowedExtensionAttribute.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Validation_For_Image\\AllowedExtensionAttribute.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Validation_For_Image\\AllowedExtensionAttribute.cs",
+              "RelativeToolTip": "FastBusMVC\\Validation_For_Image\\AllowedExtensionAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ViewModelTrip.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\ViewModel\\ViewModelTrip.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\ViewModel\\ViewModelTrip.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\ViewModel\\ViewModelTrip.cs",
+              "RelativeToolTip": "FastBusMVC\\ViewModel\\ViewModelTrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RegisterUserViewModel.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\ViewModel\\RegisterUserViewModel.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\ViewModel\\RegisterUserViewModel.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\ViewModel\\RegisterUserViewModel.cs",
+              "RelativeToolTip": "FastBusMVC\\ViewModel\\RegisterUserViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginUserViewModel.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\ViewModel\\LoginUserViewModel.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\ViewModel\\LoginUserViewModel.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\ViewModel\\LoginUserViewModel.cs",
+              "RelativeToolTip": "FastBusMVC\\ViewModel\\LoginUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AvailableTripsViewModel.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\ViewModel\\AvailableTripsViewModel.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\ViewModel\\AvailableTripsViewModel.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\ViewModel\\AvailableTripsViewModel.cs",
+              "RelativeToolTip": "FastBusMVC\\ViewModel\\AvailableTripsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Program.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Program.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Program.cs",
+              "RelativeToolTip": "FastBusMVC\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "final_DesignContext.cs",
+              "DocumentMoniker": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Models\\final_DesignContext.cs",
+              "RelativeDocumentMoniker": "FastBusMVC\\Models\\final_DesignContext.cs",
+              "ToolTip": "D:\\project\\FastBusMVC\\FastBusMVC\\FastBusMVC\\Models\\final_DesignContext.cs",
+              "RelativeToolTip": "FastBusMVC\\Models\\final_DesignContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:53:20.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

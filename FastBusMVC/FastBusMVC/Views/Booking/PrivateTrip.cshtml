@@ -1,0 +1,52 @@
+﻿@model FastBusMVC.ViewModel.ViewModelTrip
+@{
+    Layout = "_Test";
+}
+@using FastBusMVC.ViewModel
+@using System.ComponentModel.DataAnnotations
+<link href="~/css/trip.css" rel="stylesheet" />
+
+<link href="~/css/style.css" rel="stylesheet" />
+
+<section class="home">
+    <br><br><br>
+    <div class="container">
+
+        <h1>Flight Booking</h1>
+        <form asp-controller="Booking" asp-action="PrivateTrip" method="post">
+           
+
+
+
+            <div class="form-group">
+                <label for="Required Seates">Required Seates</label>
+                <select name="RequiredSeates" id="RequiredSeates" class="form-control">
+                    @for(int i=10;i<150;i++)
+                    {
+                     <option value="@i"> @i</option>
+                    }
+                </select>
+            </div>
+
+
+            <div class="form-group">
+                <label for="DateTime">Booking Date Time</label>
+                <input type="datetime-local" id="DateTime" name="DateTime" value="@(DateTime.Now.ToString("yyyy-MM-ddTHH:mm"))">
+
+            </div>
+
+            <div class="form-group">
+                <label for="Prepose">D Trip</label>
+               
+                <input type="text" id="Prepose" name="Prepose" required width="40px">
+            </div>
+
+
+            <button type="submit">View available reservations</button>
+        </form>
+    </div>
+</section>
+
+
+<script src="~/website with login & registration form/script.js"></script>
+<partial name="_ValidationScriptsPartial"></partial>

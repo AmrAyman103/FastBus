@@ -1,0 +1,62 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fast Bus</title>
+    <link href="~/css/style.css" rel="stylesheet" />
+
+
+    <link href="~/css/avstyle.css" rel="stylesheet" />
+    <link href="~/css/avswiper-bundle.min.css" rel="stylesheet" />
+
+
+    <!-- Unicons -->
+
+</head>
+<body>
+    <!-- Header -->
+
+    <header class="header">
+        <nav class="nav">
+            <a href="#" class="nav_logo">Booking a trip</a>
+
+            <ul class="nav_items">
+                <li class="nav_item">
+                    <a class="nav_link" asp-controller="Account" asp-action="test">Home</a>
+                    <a href="#" class="nav_link">Trip photos</a>
+                    <a href="#" class="nav_link">Available trips</a>
+                    <a class="nav_link" asp-controller="Booking" asp-action="PrivateTrips">Private trips</a>
+                </li>
+            </ul>
+
+            <button class="button" id="form-open">Login</button>
+        </nav>
+    </header>
+
+
+
+    <!-- Home -->
+    @RenderBody()
+
+
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <partial name="_ValidationScriptsPartial"></partial>
+
+
+
+    <script src="~/js/avscript.js"></script>
+    <script src="~/js/avswiper-bundle.min.js"></script>
+
+
+
+</body>
+</html>
+

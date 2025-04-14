@@ -1,0 +1,70 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(97, 97, 97, 0.1); /* خلفية شفافة */
+}
+
+.container {
+    width: 40%;
+    margin: auto;
+    padding: 30px;
+    background-color: rgba(232, 244, 105, 0.9); /* لون أصفر فاتح شفاف */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: #333; /* لون غامق للنص */
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333; /* لون غامق للنص */
+}
+
+select, input[type="datetime-local"], input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #afaa13;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.8); /* لون خلفية شفاف */
+}
+
+.input-group-prepend .btn, .input-group-append .btn {
+    background-color: rgba(222, 206, 61, 0.9); /* لون أصفر فاتح شفاف */
+    color: white;
+    border: none;
+}
+
+    .input-group-prepend .btn:hover, .input-group-append .btn:hover {
+        background-color: rgba(236, 183, 7, 0.9); /* لون أصفر أغمق عند التمرير */
+    }
+
+.btn-primary {
+    background-color: rgba(222, 206, 61, 0.9); /* لون أصفر فاتح شفاف */
+    color: white;
+    border: none;
+    width: 100%;
+}
+
+    .btn-primary:hover {
+        background-color: rgba(236, 183, 7, 0.9); /* لون أصفر أغمق عند التمرير */
+    }
+
+.input-group .form-control {
+    text-align: center;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}

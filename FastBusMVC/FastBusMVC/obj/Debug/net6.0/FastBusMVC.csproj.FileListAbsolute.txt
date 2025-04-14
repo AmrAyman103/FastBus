@@ -1,0 +1,1627 @@
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\appsettings.Development.json
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\appsettings.json
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.staticwebassets.runtime.json
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.exe
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.deps.json
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.runtimeconfig.json
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.pdb
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\mscorlib.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\netstandard.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.AppContext.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Buffers.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Configuration.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Console.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Core.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Data.Common.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Data.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Drawing.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Globalization.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Compression.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Linq.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Memory.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Http.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Mail.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Ping.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Requests.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Security.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Numerics.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ObjectModel.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Claims.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Principal.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Json.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Transactions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ValueTuple.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Web.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Windows.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\WindowsBase.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Humanizer.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.csproj.AssemblyReference.cache
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.GeneratedMSBuildEditorConfig.editorconfig
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.AssemblyInfoInputs.cache
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.AssemblyInfo.cs
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.csproj.CoreCompileInputs.cache
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.MvcApplicationPartsAssemblyInfo.cs
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.MvcApplicationPartsAssemblyInfo.cache
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.RazorAssemblyInfo.cache
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.RazorAssemblyInfo.cs
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets.build.json
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets.development.json
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.FastBusMVC.Microsoft.AspNetCore.StaticWebAssets.props
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.FastBusMVC.props
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FastBusMVC.props
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FastBusMVC.props
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets.pack.json
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\scopedcss\bundle\FastBusMVC.styles.css
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\scopedcss\projectbundle\FastBusMVC.bundle.scp.css
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.csproj.CopyComplete
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\refint\FastBusMVC.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.pdb
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.genruntimeconfig.cache
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\ref\FastBusMVC.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\MessagePack.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Build.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Common.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Configuration.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Packaging.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Protocol.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Versioning.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.Convention.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\af\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ar\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\az\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\bg\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\da\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\el\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fa\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\he\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\hr\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\hu\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\hy\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\id\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\is\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ku\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\lv\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\mt\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\nb\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\nl\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ro\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sk\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sl\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sr\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sv\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\uk\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\vi\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+O:\term6\Software Development\projectMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\appsettings.json
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.staticwebassets.runtime.json
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.exe
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.deps.json
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.runtimeconfig.json
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.pdb
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\mscorlib.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\netstandard.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Console.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Core.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Data.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Linq.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Memory.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Web.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Windows.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Humanizer.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\MessagePack.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Build.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Common.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.csproj.AssemblyReference.cache
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.AssemblyInfoInputs.cache
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.AssemblyInfo.cs
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.csproj.CoreCompileInputs.cache
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.MvcApplicationPartsAssemblyInfo.cs
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.RazorAssemblyInfo.cache
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.RazorAssemblyInfo.cs
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.FastBusMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.FastBusMVC.props
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FastBusMVC.props
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FastBusMVC.props
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\scopedcss\bundle\FastBusMVC.styles.css
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\scopedcss\projectbundle\FastBusMVC.bundle.scp.css
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.csproj.Up2Date
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\refint\FastBusMVC.dll
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.pdb
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.genruntimeconfig.cache
+D:\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\ref\FastBusMVC.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\appsettings.json
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.staticwebassets.runtime.json
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.staticwebassets.endpoints.json
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.exe
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.deps.json
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.runtimeconfig.json
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\FastBusMVC.pdb
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\mscorlib.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\netstandard.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Console.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Core.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Data.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Linq.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Memory.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Web.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Windows.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Humanizer.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\MessagePack.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Build.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Common.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.csproj.AssemblyReference.cache
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.AssemblyInfoInputs.cache
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.AssemblyInfo.cs
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.csproj.CoreCompileInputs.cache
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.MvcApplicationPartsAssemblyInfo.cs
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.RazorAssemblyInfo.cache
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.RazorAssemblyInfo.cs
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\scopedcss\bundle\FastBusMVC.styles.css
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\scopedcss\projectbundle\FastBusMVC.bundle.scp.css
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.FastBusMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.FastBusMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.FastBusMVC.props
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FastBusMVC.props
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FastBusMVC.props
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.csproj.Up2Date
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\refint\FastBusMVC.dll
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.pdb
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\FastBusMVC.genruntimeconfig.cache
+D:\project\FastBusMVC\FastBusMVC\FastBusMVC\obj\Debug\net6.0\ref\FastBusMVC.dll

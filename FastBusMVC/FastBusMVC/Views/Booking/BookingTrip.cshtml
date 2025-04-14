@@ -1,0 +1,54 @@
+﻿@model FastBusMVC.ViewModel.ViewModelTrip
+@{
+    Layout = "_Test";
+}
+@using FastBusMVC.ViewModel
+@using System.ComponentModel.DataAnnotations
+<link href="~/css/trip.css" rel="stylesheet" />
+
+<link href="~/css/style.css" rel="stylesheet" />
+
+<section class="home">
+    <br><br><br>
+<div class="container">
+    
+    <h1>Flight Booking</h1>
+    <form asp-controller="Booking" asp-action="BookingTrip" method="post">
+        <div class="form-group">
+            <label for="DeparureCitys">DeparureCitys</label>
+            <select name="DeparureCitys" id="DeparureCitys" class="form-control">
+                @foreach (var item in Model.DeparureCitys)
+                {
+                    <option value="@item.Value">@item.Text</option>
+                }
+            </select>
+        </div>
+
+
+
+        <div class="form-group">
+            <label for="ArrivalCitys">ArrivalCitys</label>
+            <select name="ArrivalCitys" id="ArrivalCitys" class="form-control">
+                @foreach (var item in Model.ArrivalCitys)
+                {
+                    <option value="@item.Value">@item.Text</option>
+                }
+            </select>
+        </div>
+
+
+        <div class="form-group">
+            <label for="departureDateTime">Departure Date</label>
+                <input type="datetime-local" id="departureDateTime" name="departureDateTime" value="@(DateTime.Now.ToString("yyyy-MM-ddTHH:mm"))">
+
+        </div>
+
+
+        <button type="submit">View available reservations</button>
+    </form>
+</div>
+</section>
+
+
+<script src="~/website with login & registration form/script.js"></script>
+<partial name="_ValidationScriptsPartial"></partial>
